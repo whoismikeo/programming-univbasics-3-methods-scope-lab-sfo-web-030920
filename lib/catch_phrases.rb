@@ -12,3 +12,7 @@ def link
   phrase = "It's dangerous to go alone! Take this."
   puts phrase
 end
+
+def any_phrase(string)
+  puts string
+end
